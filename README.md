@@ -1,4 +1,3 @@
 # mcis6273-f25-datamining
-Username: mounika_r 
-Password: Mouni@153
+Zotero Username: mounika_r 
 Lorem ipsum dolor sit amet.
